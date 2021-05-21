@@ -1,2 +1,2 @@
 # ML_PR
-Mechine learning Practice.
+Machine learning Practice.
